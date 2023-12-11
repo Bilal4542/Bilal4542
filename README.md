@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bilal4542
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working in React
 - 💞️ I’m looking to collaborate on Web development Projects
 - 📫 How to reach me gmail: mbilal45422@gmail.com
 

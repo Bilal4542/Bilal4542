@@ -1,5 +1,5 @@
 # Hi 👋, I am Muhammd Bilal #
-# React JS Developer from Peshawar, Pakistan #
+# React JS Developer from Peshawar, Pakistan *
 # 💫 About Me:
 📫I’m currently Learning MernStack<br>🌱 I’m currently working in NodeJS & ExpressJS<br>👯 I’m looking to collaborate on MernStack Projects<br>🌱All of my projects are available at: https://github.com/bilal4542?tab=repositories<br>💬 Ask me about MernStack Technology<br>📫 How to reach me: mbilal45422@gmail.com
 # 💻 Tech Stack:

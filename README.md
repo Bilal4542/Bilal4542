@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
-<h3 align="center">Frontend Developer React js</h3>
+<h2 align="center">Frontend Developer React js</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal4542&label=Profile%20views&color=0e75b6&style=flat" alt="bilal4542" /> </p>
 

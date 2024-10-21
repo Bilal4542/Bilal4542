@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bilal4542?tab=repositories](https://github.com/Bilal4542?tab=repositories)
 
-- 💬 Ask me about **React JS Express JS Node JS MongoDB**
+- 💬 Ask me about **React JS Express JS Node JS MongoDB***
 
 - 📫 How to reach me **mbilal45422@gmail.com**
 

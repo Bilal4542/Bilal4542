@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal4542&label=Profile%20views&color=0e75b6&style=flat" alt="bilal4542" /> </p>
 
-- 🌱 I’m currently learning **React JS Express JS Node JS MongoDB**
+- 🌱 I’m currently working in **React JS Express JS Node JS MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bilal4542?tab=repositories](https://github.com/Bilal4542?tab=repositories)
 
